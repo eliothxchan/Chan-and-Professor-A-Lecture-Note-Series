@@ -1,0 +1,3 @@
+Known Mistakes:
+
+Single Sideband page 8: The multiplication by j/j isn't really necessary though it's not incorrect. Generally the exponential form of sin is given with the j in the numerator, not the denominator.
