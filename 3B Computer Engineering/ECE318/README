@@ -1,3 +1,5 @@
 Known Mistakes:
 
+QCM page 9: The line after "no u terms, constant"'s integral should have "e^jut" instead of "e^-jut". Thanks Amish Patel.
+
 Single Sideband page 8: The multiplication by j/j isn't really necessary though it's not incorrect. Generally the exponential form of sin is given with the j in the numerator, not the denominator.
