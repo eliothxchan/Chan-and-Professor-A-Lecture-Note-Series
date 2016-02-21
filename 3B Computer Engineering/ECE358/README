@@ -1,3 +1,5 @@
 Known Mistakes:
 
 Chapter 2 Page 1: Should be (n choose 1) instead of (1 choose n).
+
+Chapter 3 Page 15 and 16: r(t) should simply be h(t) * s(t), not |H(f)|^2 x s(t). It would be correct to say it's the inverse Fourier of |H(f)|^2 x s(t), but that's just excessive. Convolution is easiest way to think about it.
