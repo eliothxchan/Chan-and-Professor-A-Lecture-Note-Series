@@ -1,3 +1,5 @@
 Known Mistakes:
 
+Fault Tolerance 3rd last page - #2 should be "at most once" semantics. Thanks Colin A!
+
 Paxos last example - it should say that Acceptor 1 can accept the new proposal because it has PROMISED to n=1, not that its accepted value has the proposal number 1.
