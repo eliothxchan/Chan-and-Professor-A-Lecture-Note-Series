@@ -3,3 +3,5 @@ Known Mistakes:
 Fault Tolerance 3rd last page - #2 should be "at most once" semantics. Thanks Colin A!
 
 Paxos last example - it should say that Acceptor 1 can accept the new proposal because it has PROMISED to n=1, not that its accepted value has the proposal number 1.
+
+Final Exam Practice - Q2, I didn't take the max of the latencies, and I forgot about the delay on the way back. In case you can't read 5d, it should say "Only when the acceptor has not promised an N higher than the one proposed".
